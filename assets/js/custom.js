@@ -89,7 +89,7 @@ $(function() {
                         lineColor: lineColor,
                         dotColor: dotColor,
                         parallax: parallax,
-                        proximity: 200
+                        proximity: 200,
                     });
                 });
             }

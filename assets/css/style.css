@@ -5,8 +5,8 @@ Version:        1.0.0
 Default Color   #000;
 Background Color  #fff;
 
-Body copy:		'Poppins', sans-serif; 16px;
-Headers:		'Poppins', sans-serif;
+Body copy:		'Montserrat', sans-serif; 16px;
+Headers:		'Montserrat', sans-serif;
 
 ----------------------------------------------------------------------------------------------------------------------*/
 
@@ -83,7 +83,7 @@ A. Basic Styling
 -------------------------------------------*/
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     margin: 0;
     padding: 0;
